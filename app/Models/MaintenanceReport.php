@@ -1,0 +1,27 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class MaintenanceReport extends Model
+{
+    use HasFactory;
+        protected $guarded = [];
+
+protected $casts = [
+        'progress_percent' => 'integer',
+        'progress_at' => 'datetime',
+    ];
+
+    public function booking()
+    {
+        return $this->belongsTo(Booking::class);
+    }
+
+    public function technician()
+    {
+        return $this->belongsTo(User::class, 'technician_id');
+    }
+}
