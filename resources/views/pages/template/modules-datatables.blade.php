@@ -11,7 +11,12 @@
     <link rel="stylesheet"
         href="assets/modules/datatables/Select-1.2.4/css/select.bootstrap4.min.css"> --}}
 
+<<<<<<< HEAD:resources/views/pages/template/modules-datatables.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/datatables/media/css/jquery.dataTables.min.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/datatables/media/css/jquery.dataTables.min.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-datatables.blade.php
 @endpush
 
 @section('main')
@@ -340,10 +345,17 @@
     <!-- JS Libraies -->
     {{-- <script src="assets/modules/datatables/DataTables-1.10.16/js/dataTables.bootstrap4.min.js"></script>
     <script src="assets/modules/datatables/Select-1.2.4/js/dataTables.select.min.js"></script> --}}
+<<<<<<< HEAD:resources/views/pages/template/modules-datatables.blade.php
     <script src="{{ asset('assets/library/datatables/media/js/jquery.dataTables.min.js') }}"></script>
     {{-- <script src="{{ asset() }}"></script> --}}
     {{-- <script src="{{ asset() }}"></script> --}}
     <script src="{{ asset('assets/library/jquery-ui-dist/jquery-ui.min.js') }}"></script>
+=======
+    <script src="{{ asset('library/datatables/media/js/jquery.dataTables.min.js') }}"></script>
+    {{-- <script src="{{ asset() }}"></script> --}}
+    {{-- <script src="{{ asset() }}"></script> --}}
+    <script src="{{ asset('library/jquery-ui-dist/jquery-ui.min.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-datatables.blade.php
 
     <!-- Page Specific JS File -->
     <script src="{{ asset('js/page/modules-datatables.js') }}"></script>

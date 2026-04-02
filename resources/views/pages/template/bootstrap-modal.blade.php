@@ -4,7 +4,12 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/bootstrap-modal.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/prismjs/themes/prism.min.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/prismjs/themes/prism.min.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/bootstrap-modal.blade.php
 @endpush
 
 @section('main')
@@ -163,7 +168,7 @@
 
 @push('scripts')
     <!-- JS Libraies -->
-    <script src="{{ asset('assets/library/prismjs/prism.js') }}"></script>
+    <script src="{{ asset('library/prismjs/prism.js') }}"></script>
 
     <!-- Page Specific JS File -->
     <script src="{{ asset('js/page/bootstrap-modal.js') }}"></script>

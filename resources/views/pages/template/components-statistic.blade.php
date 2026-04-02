@@ -4,8 +4,15 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/components-statistic.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/jqvmap/dist/jqvmap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/library/flag-icon-css/css/flag-icon.min.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/jqvmap/dist/jqvmap.min.css') }}">
+    <link rel="stylesheet"
+        href="{{ asset('library/flag-icon-css/css/flag-icon.min.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/components-statistic.blade.php
 @endpush
 
 @section('main')
@@ -308,11 +315,19 @@
 
 @push('scripts')
     <!-- JS Libraies -->
+<<<<<<< HEAD:resources/views/pages/template/components-statistic.blade.php
     <script src="{{ asset('assets/library/jquery-sparkline/jquery.sparkline.min.js') }}"></script>
     <script src="{{ asset('assets/library/chart.js/dist/Chart.min.js') }}"></script>
     <script src="{{ asset('assets/library/jqvmap/dist/jquery.vmap.min.js') }}"></script>
     <script src="{{ asset('assets/library/jqvmap/dist/maps/jquery.vmap.world.js') }}"></script>
     <script src="{{ asset('assets/library/jqvmap/dist/maps/jquery.vmap.indonesia.js') }}"></script>
+=======
+    <script src="{{ asset('library/jquery-sparkline/jquery.sparkline.min.js') }}"></script>
+    <script src="{{ asset('library/chart.js/dist/Chart.min.js') }}"></script>
+    <script src="{{ asset('library/jqvmap/dist/jquery.vmap.min.js') }}"></script>
+    <script src="{{ asset('library/jqvmap/dist/maps/jquery.vmap.world.js') }}"></script>
+    <script src="{{ asset('library/jqvmap/dist/maps/jquery.vmap.indonesia.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/components-statistic.blade.php
 
     <!-- Page Specific JS File -->
     <script src="{{ asset('js/page/components-statistic.js') }}"></script>

@@ -4,8 +4,15 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/features-profile.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/summernote/dist/summernote-bs4.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/library/bootstrap-social/assets/css/bootstrap.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/summernote/dist/summernote-bs4.css') }}">
+    <link rel="stylesheet"
+        href="{{ asset('library/bootstrap-social/assets/css/bootstrap.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/features-profile.blade.php
 @endpush
 
 @section('main')
@@ -144,7 +151,11 @@
 
 @push('scripts')
     <!-- JS Libraies -->
+<<<<<<< HEAD:resources/views/pages/template/features-profile.blade.php
     <script src="{{ asset('assets/library/summernote/dist/summernote-bs4.js') }}"></script>
+=======
+    <script src="{{ asset('library/summernote/dist/summernote-bs4.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/features-profile.blade.php
 
     <!-- Page Specific JS File -->
 @endpush

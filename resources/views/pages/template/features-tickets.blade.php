@@ -4,8 +4,15 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/features-tickets.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/summernote/dist/summernote-bs4.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/library/chocolat/dist/css/chocolat.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/summernote/dist/summernote-bs4.css') }}">
+    <link rel="stylesheet"
+        href="{{ asset('library/chocolat/dist/css/chocolat.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/features-tickets.blade.php
 @endpush
 
 @section('main')
@@ -142,8 +149,13 @@
 
 @push('scripts')
     <!-- JS Libraies -->
+<<<<<<< HEAD:resources/views/pages/template/features-tickets.blade.php
     <script src="{{ asset('assets/library/summernote/dist/summernote-bs4.js') }}"></script>
     <script src="{{ asset('assets/library/chocolat/dist/js/jquery.chocolat.min.js') }}"></script>
+=======
+    <script src="{{ asset('library/summernote/dist/summernote-bs4.js') }}"></script>
+    <script src="{{ asset('library/chocolat/dist/js/jquery.chocolat.min.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/features-tickets.blade.php
 
     <!-- Page Specific JS File -->
 @endpush

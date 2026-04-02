@@ -4,12 +4,27 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/forms-advanced-form.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/bootstrap-daterangepicker/daterangepicker.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/library/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/library/select2/dist/css/select2.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/library/selectric/public/selectric.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/library/bootstrap-timepicker/css/bootstrap-timepicker.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/library/bootstrap-tagsinput/dist/bootstrap-tagsinput.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/bootstrap-daterangepicker/daterangepicker.css') }}">
+    <link rel="stylesheet"
+        href="{{ asset('library/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css') }}">
+    <link rel="stylesheet"
+        href="{{ asset('library/select2/dist/css/select2.min.css') }}">
+    <link rel="stylesheet"
+        href="{{ asset('library/selectric/public/selectric.css') }}">
+    <link rel="stylesheet"
+        href="{{ asset('library/bootstrap-timepicker/css/bootstrap-timepicker.min.css') }}">
+    <link rel="stylesheet"
+        href="{{ asset('library/bootstrap-tagsinput/dist/bootstrap-tagsinput.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/forms-advanced-form.blade.php
 @endpush
 
 @section('main')
@@ -551,6 +566,7 @@
 
 @push('scripts')
     <!-- JS Libraies -->
+<<<<<<< HEAD:resources/views/pages/template/forms-advanced-form.blade.php
     <script src="{{ asset('assets/library/cleave.js/dist/cleave.min.js') }}"></script>
     <script src="{{ asset('assets/library/cleave.js/dist/addons/cleave-phone.us.js') }}"></script>
     <script src="{{ asset('assets/library/bootstrap-daterangepicker/daterangepicker.js') }}"></script>
@@ -559,6 +575,16 @@
     <script src="{{ asset('assets/library/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js') }}"></script>
     <script src="{{ asset('assets/library/select2/dist/js/select2.full.min.js') }}"></script>
     <script src="{{ asset('assets/library/selectric/public/jquery.selectric.min.js') }}"></script>
+=======
+    <script src="{{ asset('library/cleave.js/dist/cleave.min.js') }}"></script>
+    <script src="{{ asset('library/cleave.js/dist/addons/cleave-phone.us.js') }}"></script>
+    <script src="{{ asset('library/bootstrap-daterangepicker/daterangepicker.js') }}"></script>
+    <script src="{{ asset('library/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js') }}"></script>
+    <script src="{{ asset('library/bootstrap-timepicker/js/bootstrap-timepicker.min.js') }}"></script>
+    <script src="{{ asset('library/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js') }}"></script>
+    <script src="{{ asset('library/select2/dist/js/select2.full.min.js') }}"></script>
+    <script src="{{ asset('library/selectric/public/jquery.selectric.min.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/forms-advanced-form.blade.php
 
     <!-- Page Specific JS File -->
     <script src="{{ asset('js/page/forms-advanced-forms.js') }}"></script>

@@ -39,7 +39,11 @@
                                                 Afghanistan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/af.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/af.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Afghanistan Flag">
                                         </div>
                                     </div>
@@ -50,7 +54,11 @@
                                                 Aland Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ax.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ax.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Aland Islands Flag">
                                         </div>
                                     </div>
@@ -61,7 +69,11 @@
                                                 Albania
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/al.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/al.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Albania Flag">
                                         </div>
                                     </div>
@@ -72,7 +84,11 @@
                                                 Algeria
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/dz.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/dz.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Algeria Flag">
                                         </div>
                                     </div>
@@ -83,7 +99,11 @@
                                                 American Samoa
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/as.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/as.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="American Samoa Flag">
                                         </div>
                                     </div>
@@ -94,7 +114,11 @@
                                                 Andorra
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ad.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ad.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Andorra Flag">
                                         </div>
                                     </div>
@@ -105,7 +129,11 @@
                                                 Angola
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ao.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ao.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Angola Flag">
                                         </div>
                                     </div>
@@ -116,7 +144,11 @@
                                                 Anguilla
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ai.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ai.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Anguilla Flag">
                                         </div>
                                     </div>
@@ -128,7 +160,11 @@
                                                 Antigua and Barbuda
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ag.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ag.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Antigua and Barbuda Flag">
                                         </div>
                                     </div>
@@ -139,7 +175,11 @@
                                                 Argentina
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ar.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ar.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Argentina Flag">
                                         </div>
                                     </div>
@@ -150,7 +190,11 @@
                                                 Armenia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/am.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/am.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Armenia Flag">
                                         </div>
                                     </div>
@@ -161,7 +205,11 @@
                                                 Aruba
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/aw.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/aw.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Aruba Flag">
                                         </div>
                                     </div>
@@ -172,7 +220,11 @@
                                                 Australia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/au.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/au.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Australia Flag">
                                         </div>
                                     </div>
@@ -183,7 +235,11 @@
                                                 Austria
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/at.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/at.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Austria Flag">
                                         </div>
                                     </div>
@@ -194,7 +250,11 @@
                                                 Azerbaijan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/az.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/az.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Azerbaijan Flag">
                                         </div>
                                     </div>
@@ -205,7 +265,11 @@
                                                 Bahamas
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bs.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bs.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Bahamas Flag">
                                         </div>
                                     </div>
@@ -216,7 +280,11 @@
                                                 Bahrain
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bh.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bh.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Bahrain Flag">
                                         </div>
                                     </div>
@@ -227,7 +295,11 @@
                                                 Bangladesh
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bd.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bd.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Bangladesh Flag">
                                         </div>
                                     </div>
@@ -238,7 +310,11 @@
                                                 Barbados
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bb.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bb.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Barbados Flag">
                                         </div>
                                     </div>
@@ -249,7 +325,11 @@
                                                 Belarus
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/by.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/by.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Belarus Flag">
                                         </div>
                                     </div>
@@ -260,7 +340,11 @@
                                                 Belgium
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/be.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/be.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Belgium Flag">
                                         </div>
                                     </div>
@@ -271,7 +355,11 @@
                                                 Belize
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bz.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bz.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Belize Flag">
                                         </div>
                                     </div>
@@ -282,7 +370,11 @@
                                                 Benin
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bj.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bj.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Benin Flag">
                                         </div>
                                     </div>
@@ -293,7 +385,11 @@
                                                 Bermuda
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Bermuda Flag">
                                         </div>
                                     </div>
@@ -304,7 +400,11 @@
                                                 Bhutan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bt.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bt.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Bhutan Flag">
                                         </div>
                                     </div>
@@ -316,7 +416,11 @@
                                                 Bolivia (Plurinational State of)
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bo.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bo.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Bolivia (Plurinational State of) Flag">
                                         </div>
                                     </div>
@@ -328,7 +432,11 @@
                                                 Bonaire, Sint Eustatius and Saba
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bq.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bq.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Bonaire, Sint Eustatius and Saba Flag">
                                         </div>
                                     </div>
@@ -339,7 +447,11 @@
                                                 Bosnia and Herzegovina
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ba.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ba.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Bosnia and Herzegovina Flag">
                                         </div>
                                     </div>
@@ -350,7 +462,11 @@
                                                 Botswana
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bw.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bw.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Botswana Flag">
                                         </div>
                                     </div>
@@ -361,7 +477,11 @@
                                                 Brazil
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/br.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/br.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Brazil Flag">
                                         </div>
                                     </div>
@@ -373,7 +493,11 @@
                                                 British Indian Ocean Territory
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/io.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/io.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="British Indian Ocean Territory Flag">
                                         </div>
                                     </div>
@@ -384,7 +508,11 @@
                                                 Brunei Darussalam
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bn.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bn.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Brunei Darussalam Flag">
                                         </div>
                                     </div>
@@ -395,7 +523,11 @@
                                                 Bulgaria
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bg.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bg.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Bulgaria Flag">
                                         </div>
                                     </div>
@@ -406,7 +538,11 @@
                                                 Burkina Faso
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bf.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bf.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Burkina Faso Flag">
                                         </div>
                                     </div>
@@ -417,7 +553,11 @@
                                                 Burundi
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bi.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bi.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Burundi Flag">
                                         </div>
                                     </div>
@@ -428,7 +568,11 @@
                                                 Cabo Verde
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cv.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cv.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Cabo Verde Flag">
                                         </div>
                                     </div>
@@ -439,7 +583,11 @@
                                                 Cambodia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/kh.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/kh.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Cambodia Flag">
                                         </div>
                                     </div>
@@ -450,7 +598,11 @@
                                                 Cameroon
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Cameroon Flag">
                                         </div>
                                     </div>
@@ -461,7 +613,11 @@
                                                 Canada
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ca.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ca.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Canada Flag">
                                         </div>
                                     </div>
@@ -472,7 +628,11 @@
                                                 Cayman Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ky.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ky.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Cayman Islands Flag">
                                         </div>
                                     </div>
@@ -484,7 +644,11 @@
                                                 Central African Republic
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cf.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cf.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Central African Republic Flag">
                                         </div>
                                     </div>
@@ -495,7 +659,11 @@
                                                 Chad
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/td.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/td.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Chad Flag">
                                         </div>
                                     </div>
@@ -506,7 +674,11 @@
                                                 Chile
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cl.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cl.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Chile Flag">
                                         </div>
                                     </div>
@@ -517,7 +689,11 @@
                                                 China
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cn.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cn.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="China Flag">
                                         </div>
                                     </div>
@@ -528,7 +704,11 @@
                                                 Christmas Island
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cx.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cx.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Christmas Island Flag">
                                         </div>
                                     </div>
@@ -539,7 +719,11 @@
                                                 Cocos (Keeling) Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cc.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cc.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Cocos (Keeling) Islands Flag">
                                         </div>
                                     </div>
@@ -550,7 +734,11 @@
                                                 Colombia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/co.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/co.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Colombia Flag">
                                         </div>
                                     </div>
@@ -561,7 +749,11 @@
                                                 Comoros
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/km.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/km.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Comoros Flag">
                                         </div>
                                     </div>
@@ -572,7 +764,11 @@
                                                 Cook Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ck.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ck.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Cook Islands Flag">
                                         </div>
                                     </div>
@@ -583,7 +779,11 @@
                                                 Costa Rica
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Costa Rica Flag">
                                         </div>
                                     </div>
@@ -594,7 +794,11 @@
                                                 Croatia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/hr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/hr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Croatia Flag">
                                         </div>
                                     </div>
@@ -605,7 +809,11 @@
                                                 Cuba
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cu.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cu.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Cuba Flag">
                                         </div>
                                     </div>
@@ -616,7 +824,11 @@
                                                 Curaçao
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cw.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cw.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Curaçao Flag">
                                         </div>
                                     </div>
@@ -627,7 +839,11 @@
                                                 Cyprus
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cy.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cy.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Cyprus Flag">
                                         </div>
                                     </div>
@@ -638,7 +854,11 @@
                                                 Czech Republic
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cz.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cz.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Czech Republic Flag">
                                         </div>
                                     </div>
@@ -649,7 +869,11 @@
                                                 Côte d&#39;Ivoire
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ci.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ci.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Côte d&#39;Ivoire Flag">
                                         </div>
                                     </div>
@@ -661,7 +885,11 @@
                                                 Democratic Republic of the Congo
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cd.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cd.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Democratic Republic of the Congo Flag">
                                         </div>
                                     </div>
@@ -672,7 +900,11 @@
                                                 Denmark
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/dk.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/dk.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Denmark Flag">
                                         </div>
                                     </div>
@@ -683,7 +915,11 @@
                                                 Djibouti
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/dj.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/dj.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Djibouti Flag">
                                         </div>
                                     </div>
@@ -694,7 +930,11 @@
                                                 Dominica
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/dm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/dm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Dominica Flag">
                                         </div>
                                     </div>
@@ -706,7 +946,11 @@
                                                 Dominican Republic
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/do.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/do.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Dominican Republic Flag">
                                         </div>
                                     </div>
@@ -717,7 +961,11 @@
                                                 Ecuador
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ec.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ec.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Ecuador Flag">
                                         </div>
                                     </div>
@@ -728,7 +976,11 @@
                                                 Egypt
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/eg.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/eg.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Egypt Flag">
                                         </div>
                                     </div>
@@ -739,7 +991,11 @@
                                                 El Salvador
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sv.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sv.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="El Salvador Flag">
                                         </div>
                                     </div>
@@ -750,7 +1006,11 @@
                                                 Equatorial Guinea
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gq.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gq.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Equatorial Guinea Flag">
                                         </div>
                                     </div>
@@ -761,7 +1021,11 @@
                                                 Eritrea
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/er.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/er.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Eritrea Flag">
                                         </div>
                                     </div>
@@ -772,7 +1036,11 @@
                                                 Estonia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ee.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ee.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Estonia Flag">
                                         </div>
                                     </div>
@@ -783,7 +1051,11 @@
                                                 Ethiopia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/et.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/et.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Ethiopia Flag">
                                         </div>
                                     </div>
@@ -794,7 +1066,11 @@
                                                 Falkland Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/fk.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/fk.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Falkland Islands Flag">
                                         </div>
                                     </div>
@@ -805,7 +1081,11 @@
                                                 Faroe Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/fo.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/fo.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Faroe Islands Flag">
                                         </div>
                                     </div>
@@ -817,7 +1097,11 @@
                                                 Federated States of Micronesia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/fm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/fm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Federated States of Micronesia Flag">
                                         </div>
                                     </div>
@@ -828,7 +1112,11 @@
                                                 Fiji
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/fj.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/fj.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Fiji Flag">
                                         </div>
                                     </div>
@@ -839,7 +1127,11 @@
                                                 Finland
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/fi.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/fi.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Finland Flag">
                                         </div>
                                     </div>
@@ -851,7 +1143,11 @@
                                                 Former Yugoslav Republic of Macedonia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mk.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mk.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Former Yugoslav Republic of Macedonia Flag">
                                         </div>
                                     </div>
@@ -862,7 +1158,11 @@
                                                 France
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/fr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/fr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="France Flag">
                                         </div>
                                     </div>
@@ -873,7 +1173,11 @@
                                                 French Guiana
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gf.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gf.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="French Guiana Flag">
                                         </div>
                                     </div>
@@ -884,7 +1188,11 @@
                                                 French Polynesia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pf.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pf.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="French Polynesia Flag">
                                         </div>
                                     </div>
@@ -896,7 +1204,11 @@
                                                 French Southern Territories
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tf.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tf.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="French Southern Territories Flag">
                                         </div>
                                     </div>
@@ -907,7 +1219,11 @@
                                                 Gabon
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ga.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ga.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Gabon Flag">
                                         </div>
                                     </div>
@@ -918,7 +1234,11 @@
                                                 Gambia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Gambia Flag">
                                         </div>
                                     </div>
@@ -929,7 +1249,11 @@
                                                 Georgia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ge.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ge.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Georgia Flag">
                                         </div>
                                     </div>
@@ -940,7 +1264,11 @@
                                                 Germany
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/de.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/de.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Germany Flag">
                                         </div>
                                     </div>
@@ -951,7 +1279,11 @@
                                                 Ghana
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gh.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gh.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Ghana Flag">
                                         </div>
                                     </div>
@@ -962,7 +1294,11 @@
                                                 Gibraltar
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gi.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gi.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Gibraltar Flag">
                                         </div>
                                     </div>
@@ -973,7 +1309,11 @@
                                                 Greece
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Greece Flag">
                                         </div>
                                     </div>
@@ -984,7 +1324,11 @@
                                                 Greenland
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gl.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gl.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Greenland Flag">
                                         </div>
                                     </div>
@@ -995,7 +1339,11 @@
                                                 Grenada
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gd.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gd.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Grenada Flag">
                                         </div>
                                     </div>
@@ -1006,7 +1354,11 @@
                                                 Guadeloupe
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gp.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gp.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Guadeloupe Flag">
                                         </div>
                                     </div>
@@ -1017,7 +1369,11 @@
                                                 Guam
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gu.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gu.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Guam Flag">
                                         </div>
                                     </div>
@@ -1028,7 +1384,11 @@
                                                 Guatemala
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gt.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gt.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Guatemala Flag">
                                         </div>
                                     </div>
@@ -1039,7 +1399,11 @@
                                                 Guernsey
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gg.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gg.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Guernsey Flag">
                                         </div>
                                     </div>
@@ -1050,7 +1414,11 @@
                                                 Guinea
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gn.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gn.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Guinea Flag">
                                         </div>
                                     </div>
@@ -1061,7 +1429,11 @@
                                                 Guinea-Bissau
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gw.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gw.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Guinea-Bissau Flag">
                                         </div>
                                     </div>
@@ -1072,7 +1444,11 @@
                                                 Guyana
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gy.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gy.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Guyana Flag">
                                         </div>
                                     </div>
@@ -1083,7 +1459,11 @@
                                                 Haiti
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ht.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ht.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Haiti Flag">
                                         </div>
                                     </div>
@@ -1094,7 +1474,11 @@
                                                 Holy See
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/va.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/va.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Holy See Flag">
                                         </div>
                                     </div>
@@ -1105,7 +1489,11 @@
                                                 Honduras
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/hn.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/hn.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Honduras Flag">
                                         </div>
                                     </div>
@@ -1116,7 +1504,11 @@
                                                 Hong Kong
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/hk.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/hk.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Hong Kong Flag">
                                         </div>
                                     </div>
@@ -1127,7 +1519,11 @@
                                                 Hungary
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/hu.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/hu.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Hungary Flag">
                                         </div>
                                     </div>
@@ -1138,7 +1534,11 @@
                                                 Iceland
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/is.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/is.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Iceland Flag">
                                         </div>
                                     </div>
@@ -1149,7 +1549,11 @@
                                                 India
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/in.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/in.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="India Flag">
                                         </div>
                                     </div>
@@ -1160,7 +1564,11 @@
                                                 Indonesia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/id.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/id.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Indonesia Flag">
                                         </div>
                                     </div>
@@ -1172,7 +1580,11 @@
                                                 Iran (Islamic Republic of)
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ir.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ir.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Iran (Islamic Republic of) Flag">
                                         </div>
                                     </div>
@@ -1183,7 +1595,11 @@
                                                 Iraq
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/iq.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/iq.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Iraq Flag">
                                         </div>
                                     </div>
@@ -1194,7 +1610,11 @@
                                                 Ireland
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ie.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ie.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Ireland Flag">
                                         </div>
                                     </div>
@@ -1205,7 +1625,11 @@
                                                 Isle of Man
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/im.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/im.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Isle of Man Flag">
                                         </div>
                                     </div>
@@ -1216,7 +1640,11 @@
                                                 Israel
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/il.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/il.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Israel Flag">
                                         </div>
                                     </div>
@@ -1227,7 +1655,11 @@
                                                 Italy
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/it.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/it.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Italy Flag">
                                         </div>
                                     </div>
@@ -1238,7 +1670,11 @@
                                                 Jamaica
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/jm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/jm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Jamaica Flag">
                                         </div>
                                     </div>
@@ -1249,7 +1685,11 @@
                                                 Japan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/jp.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/jp.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Japan Flag">
                                         </div>
                                     </div>
@@ -1260,7 +1700,11 @@
                                                 Jersey
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/je.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/je.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Jersey Flag">
                                         </div>
                                     </div>
@@ -1271,7 +1715,11 @@
                                                 Jordan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/jo.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/jo.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Jordan Flag">
                                         </div>
                                     </div>
@@ -1282,7 +1730,11 @@
                                                 Kazakhstan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/kz.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/kz.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Kazakhstan Flag">
                                         </div>
                                     </div>
@@ -1293,7 +1745,11 @@
                                                 Kenya
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ke.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ke.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Kenya Flag">
                                         </div>
                                     </div>
@@ -1304,7 +1760,11 @@
                                                 Kiribati
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ki.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ki.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Kiribati Flag">
                                         </div>
                                     </div>
@@ -1315,7 +1775,11 @@
                                                 Kuwait
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/kw.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/kw.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Kuwait Flag">
                                         </div>
                                     </div>
@@ -1326,7 +1790,11 @@
                                                 Kyrgyzstan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/kg.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/kg.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Kyrgyzstan Flag">
                                         </div>
                                     </div>
@@ -1337,7 +1805,11 @@
                                                 Laos
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/la.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/la.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Laos Flag">
                                         </div>
                                     </div>
@@ -1348,7 +1820,11 @@
                                                 Latvia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/lv.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/lv.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Latvia Flag">
                                         </div>
                                     </div>
@@ -1359,7 +1835,11 @@
                                                 Lebanon
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/lb.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/lb.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Lebanon Flag">
                                         </div>
                                     </div>
@@ -1370,7 +1850,11 @@
                                                 Lesotho
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ls.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ls.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Lesotho Flag">
                                         </div>
                                     </div>
@@ -1381,7 +1865,11 @@
                                                 Liberia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/lr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/lr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Liberia Flag">
                                         </div>
                                     </div>
@@ -1392,7 +1880,11 @@
                                                 Libya
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ly.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ly.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Libya Flag">
                                         </div>
                                     </div>
@@ -1403,7 +1895,11 @@
                                                 Liechtenstein
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/li.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/li.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Liechtenstein Flag">
                                         </div>
                                     </div>
@@ -1414,7 +1910,11 @@
                                                 Lithuania
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/lt.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/lt.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Lithuania Flag">
                                         </div>
                                     </div>
@@ -1425,7 +1925,11 @@
                                                 Luxembourg
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/lu.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/lu.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Luxembourg Flag">
                                         </div>
                                     </div>
@@ -1436,7 +1940,11 @@
                                                 Macau
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mo.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mo.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Macau Flag">
                                         </div>
                                     </div>
@@ -1447,7 +1955,11 @@
                                                 Madagascar
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mg.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mg.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Madagascar Flag">
                                         </div>
                                     </div>
@@ -1458,7 +1970,11 @@
                                                 Malawi
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mw.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mw.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Malawi Flag">
                                         </div>
                                     </div>
@@ -1469,7 +1985,11 @@
                                                 Malaysia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/my.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/my.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Malaysia Flag">
                                         </div>
                                     </div>
@@ -1480,7 +2000,11 @@
                                                 Maldives
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mv.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mv.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Maldives Flag">
                                         </div>
                                     </div>
@@ -1491,7 +2015,11 @@
                                                 Mali
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ml.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ml.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Mali Flag">
                                         </div>
                                     </div>
@@ -1502,7 +2030,11 @@
                                                 Malta
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mt.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mt.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Malta Flag">
                                         </div>
                                     </div>
@@ -1513,7 +2045,11 @@
                                                 Marshall Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mh.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mh.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Marshall Islands Flag">
                                         </div>
                                     </div>
@@ -1524,7 +2060,11 @@
                                                 Martinique
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mq.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mq.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Martinique Flag">
                                         </div>
                                     </div>
@@ -1535,7 +2075,11 @@
                                                 Mauritania
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Mauritania Flag">
                                         </div>
                                     </div>
@@ -1546,7 +2090,11 @@
                                                 Mauritius
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mu.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mu.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Mauritius Flag">
                                         </div>
                                     </div>
@@ -1557,7 +2105,11 @@
                                                 Mayotte
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/yt.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/yt.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Mayotte Flag">
                                         </div>
                                     </div>
@@ -1568,7 +2120,11 @@
                                                 Mexico
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mx.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mx.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Mexico Flag">
                                         </div>
                                     </div>
@@ -1579,7 +2135,11 @@
                                                 Moldova
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/md.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/md.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Moldova Flag">
                                         </div>
                                     </div>
@@ -1590,7 +2150,11 @@
                                                 Monaco
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mc.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mc.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Monaco Flag">
                                         </div>
                                     </div>
@@ -1601,7 +2165,11 @@
                                                 Mongolia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mn.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mn.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Mongolia Flag">
                                         </div>
                                     </div>
@@ -1612,7 +2180,11 @@
                                                 Montenegro
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/me.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/me.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Montenegro Flag">
                                         </div>
                                     </div>
@@ -1623,7 +2195,11 @@
                                                 Montserrat
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ms.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ms.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Montserrat Flag">
                                         </div>
                                     </div>
@@ -1634,7 +2210,11 @@
                                                 Morocco
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ma.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ma.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Morocco Flag">
                                         </div>
                                     </div>
@@ -1645,7 +2225,11 @@
                                                 Mozambique
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mz.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mz.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Mozambique Flag">
                                         </div>
                                     </div>
@@ -1656,7 +2240,11 @@
                                                 Myanmar
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Myanmar Flag">
                                         </div>
                                     </div>
@@ -1667,7 +2255,11 @@
                                                 Namibia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/na.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/na.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Namibia Flag">
                                         </div>
                                     </div>
@@ -1678,7 +2270,11 @@
                                                 Nauru
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/nr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/nr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Nauru Flag">
                                         </div>
                                     </div>
@@ -1689,7 +2285,11 @@
                                                 Nepal
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/np.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/np.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Nepal Flag">
                                         </div>
                                     </div>
@@ -1700,7 +2300,11 @@
                                                 Netherlands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/nl.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/nl.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Netherlands Flag">
                                         </div>
                                     </div>
@@ -1711,7 +2315,11 @@
                                                 New Caledonia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/nc.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/nc.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="New Caledonia Flag">
                                         </div>
                                     </div>
@@ -1722,7 +2330,11 @@
                                                 New Zealand
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/nz.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/nz.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="New Zealand Flag">
                                         </div>
                                     </div>
@@ -1733,7 +2345,11 @@
                                                 Nicaragua
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ni.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ni.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Nicaragua Flag">
                                         </div>
                                     </div>
@@ -1744,7 +2360,11 @@
                                                 Niger
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ne.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ne.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Niger Flag">
                                         </div>
                                     </div>
@@ -1755,7 +2375,11 @@
                                                 Nigeria
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ng.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ng.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Nigeria Flag">
                                         </div>
                                     </div>
@@ -1766,7 +2390,11 @@
                                                 Niue
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/nu.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/nu.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Niue Flag">
                                         </div>
                                     </div>
@@ -1777,7 +2405,11 @@
                                                 Norfolk Island
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/nf.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/nf.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Norfolk Island Flag">
                                         </div>
                                     </div>
@@ -1788,7 +2420,11 @@
                                                 North Korea
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/kp.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/kp.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="North Korea Flag">
                                         </div>
                                     </div>
@@ -1800,7 +2436,11 @@
                                                 Northern Mariana Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mp.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mp.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Northern Mariana Islands Flag">
                                         </div>
                                     </div>
@@ -1811,7 +2451,11 @@
                                                 Norway
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/no.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/no.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Norway Flag">
                                         </div>
                                     </div>
@@ -1822,7 +2466,11 @@
                                                 Oman
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/om.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/om.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Oman Flag">
                                         </div>
                                     </div>
@@ -1833,7 +2481,11 @@
                                                 Pakistan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pk.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pk.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Pakistan Flag">
                                         </div>
                                     </div>
@@ -1844,7 +2496,11 @@
                                                 Palau
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pw.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pw.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Palau Flag">
                                         </div>
                                     </div>
@@ -1855,7 +2511,11 @@
                                                 Panama
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pa.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pa.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Panama Flag">
                                         </div>
                                     </div>
@@ -1866,7 +2526,11 @@
                                                 Papua New Guinea
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pg.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pg.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Papua New Guinea Flag">
                                         </div>
                                     </div>
@@ -1877,7 +2541,11 @@
                                                 Paraguay
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/py.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/py.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Paraguay Flag">
                                         </div>
                                     </div>
@@ -1888,7 +2556,11 @@
                                                 Peru
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pe.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pe.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Peru Flag">
                                         </div>
                                     </div>
@@ -1899,7 +2571,11 @@
                                                 Philippines
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ph.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ph.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Philippines Flag">
                                         </div>
                                     </div>
@@ -1910,7 +2586,11 @@
                                                 Pitcairn
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pn.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pn.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Pitcairn Flag">
                                         </div>
                                     </div>
@@ -1921,7 +2601,11 @@
                                                 Poland
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pl.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pl.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Poland Flag">
                                         </div>
                                     </div>
@@ -1932,7 +2616,11 @@
                                                 Portugal
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pt.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pt.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Portugal Flag">
                                         </div>
                                     </div>
@@ -1943,7 +2631,11 @@
                                                 Puerto Rico
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Puerto Rico Flag">
                                         </div>
                                     </div>
@@ -1954,7 +2646,11 @@
                                                 Qatar
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/qa.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/qa.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Qatar Flag">
                                         </div>
                                     </div>
@@ -1966,7 +2662,11 @@
                                                 Republic of the Congo
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/cg.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/cg.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Republic of the Congo Flag">
                                         </div>
                                     </div>
@@ -1977,7 +2677,11 @@
                                                 Romania
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ro.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ro.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Romania Flag">
                                         </div>
                                     </div>
@@ -1988,7 +2692,11 @@
                                                 Russia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ru.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ru.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Russia Flag">
                                         </div>
                                     </div>
@@ -1999,7 +2707,11 @@
                                                 Rwanda
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/rw.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/rw.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Rwanda Flag">
                                         </div>
                                     </div>
@@ -2010,7 +2722,11 @@
                                                 Réunion
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/re.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/re.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Réunion Flag">
                                         </div>
                                     </div>
@@ -2022,7 +2738,11 @@
                                                 Saint Barthélemy
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/bl.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/bl.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Saint Barthélemy Flag">
                                         </div>
                                     </div>
@@ -2034,7 +2754,11 @@
                                                 Saint Helena, Ascension and Tristan da Cunha
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sh.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sh.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Saint Helena, Ascension and Tristan da Cunha Flag">
                                         </div>
                                     </div>
@@ -2046,7 +2770,11 @@
                                                 Saint Kitts and Nevis
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/kn.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/kn.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Saint Kitts and Nevis Flag">
                                         </div>
                                     </div>
@@ -2057,7 +2785,11 @@
                                                 Saint Lucia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/lc.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/lc.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Saint Lucia Flag">
                                         </div>
                                     </div>
@@ -2068,7 +2800,11 @@
                                                 Saint Martin
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/mf.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/mf.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Saint Martin Flag">
                                         </div>
                                     </div>
@@ -2080,7 +2816,11 @@
                                                 Saint Pierre and Miquelon
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/pm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/pm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Saint Pierre and Miquelon Flag">
                                         </div>
                                     </div>
@@ -2092,7 +2832,11 @@
                                                 Saint Vincent and the Grenadines
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/vc.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/vc.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Saint Vincent and the Grenadines Flag">
                                         </div>
                                     </div>
@@ -2103,7 +2847,11 @@
                                                 Samoa
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ws.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ws.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Samoa Flag">
                                         </div>
                                     </div>
@@ -2114,7 +2862,11 @@
                                                 San Marino
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="San Marino Flag">
                                         </div>
                                     </div>
@@ -2126,7 +2878,11 @@
                                                 Sao Tome and Principe
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/st.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/st.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Sao Tome and Principe Flag">
                                         </div>
                                     </div>
@@ -2137,7 +2893,11 @@
                                                 Saudi Arabia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sa.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sa.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Saudi Arabia Flag">
                                         </div>
                                     </div>
@@ -2148,7 +2908,11 @@
                                                 Senegal
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sn.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sn.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Senegal Flag">
                                         </div>
                                     </div>
@@ -2159,7 +2923,11 @@
                                                 Serbia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/rs.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/rs.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Serbia Flag">
                                         </div>
                                     </div>
@@ -2170,7 +2938,11 @@
                                                 Seychelles
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sc.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sc.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Seychelles Flag">
                                         </div>
                                     </div>
@@ -2181,7 +2953,11 @@
                                                 Sierra Leone
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sl.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sl.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Sierra Leone Flag">
                                         </div>
                                     </div>
@@ -2192,7 +2968,11 @@
                                                 Singapore
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sg.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sg.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Singapore Flag">
                                         </div>
                                     </div>
@@ -2203,7 +2983,11 @@
                                                 Sint Maarten
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sx.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sx.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Sint Maarten Flag">
                                         </div>
                                     </div>
@@ -2214,7 +2998,11 @@
                                                 Slovakia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sk.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sk.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Slovakia Flag">
                                         </div>
                                     </div>
@@ -2225,7 +3013,11 @@
                                                 Slovenia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/si.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/si.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Slovenia Flag">
                                         </div>
                                     </div>
@@ -2236,7 +3028,11 @@
                                                 Solomon Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sb.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sb.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Solomon Islands Flag">
                                         </div>
                                     </div>
@@ -2247,7 +3043,11 @@
                                                 Somalia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/so.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/so.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Somalia Flag">
                                         </div>
                                     </div>
@@ -2258,7 +3058,11 @@
                                                 South Africa
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/za.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/za.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="South Africa Flag">
                                         </div>
                                     </div>
@@ -2270,7 +3074,11 @@
                                                 South Georgia and the South Sandwich Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gs.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gs.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="South Georgia and the South Sandwich Islands Flag">
                                         </div>
                                     </div>
@@ -2281,7 +3089,11 @@
                                                 South Korea
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/kr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/kr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="South Korea Flag">
                                         </div>
                                     </div>
@@ -2292,7 +3104,11 @@
                                                 South Sudan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ss.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ss.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="South Sudan Flag">
                                         </div>
                                     </div>
@@ -2303,7 +3119,11 @@
                                                 Spain
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/es.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/es.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Spain Flag">
                                         </div>
                                     </div>
@@ -2314,7 +3134,11 @@
                                                 Sri Lanka
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/lk.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/lk.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Sri Lanka Flag">
                                         </div>
                                     </div>
@@ -2325,7 +3149,11 @@
                                                 State of Palestine
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ps.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ps.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="State of Palestine Flag">
                                         </div>
                                     </div>
@@ -2336,7 +3164,11 @@
                                                 Sudan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sd.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sd.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Sudan Flag">
                                         </div>
                                     </div>
@@ -2347,7 +3179,11 @@
                                                 Suriname
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Suriname Flag">
                                         </div>
                                     </div>
@@ -2359,7 +3195,11 @@
                                                 Svalbard and Jan Mayen
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sj.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sj.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Svalbard and Jan Mayen Flag">
                                         </div>
                                     </div>
@@ -2370,7 +3210,11 @@
                                                 Swaziland
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sz.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sz.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Swaziland Flag">
                                         </div>
                                     </div>
@@ -2381,7 +3225,11 @@
                                                 Sweden
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/se.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/se.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Sweden Flag">
                                         </div>
                                     </div>
@@ -2392,7 +3240,11 @@
                                                 Switzerland
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ch.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ch.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Switzerland Flag">
                                         </div>
                                     </div>
@@ -2403,7 +3255,11 @@
                                                 Syrian Arab Republic
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/sy.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/sy.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Syrian Arab Republic Flag">
                                         </div>
                                     </div>
@@ -2414,7 +3270,11 @@
                                                 Taiwan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tw.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tw.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Taiwan Flag">
                                         </div>
                                     </div>
@@ -2425,7 +3285,11 @@
                                                 Tajikistan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tj.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tj.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Tajikistan Flag">
                                         </div>
                                     </div>
@@ -2436,7 +3300,11 @@
                                                 Tanzania
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tz.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tz.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Tanzania Flag">
                                         </div>
                                     </div>
@@ -2447,7 +3315,11 @@
                                                 Thailand
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/th.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/th.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Thailand Flag">
                                         </div>
                                     </div>
@@ -2458,7 +3330,11 @@
                                                 Timor-Leste
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tl.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tl.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Timor-Leste Flag">
                                         </div>
                                     </div>
@@ -2469,7 +3345,11 @@
                                                 Togo
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tg.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tg.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Togo Flag">
                                         </div>
                                     </div>
@@ -2480,7 +3360,11 @@
                                                 Tokelau
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tk.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tk.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Tokelau Flag">
                                         </div>
                                     </div>
@@ -2491,7 +3375,11 @@
                                                 Tonga
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/to.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/to.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Tonga Flag">
                                         </div>
                                     </div>
@@ -2503,7 +3391,11 @@
                                                 Trinidad and Tobago
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tt.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tt.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Trinidad and Tobago Flag">
                                         </div>
                                     </div>
@@ -2514,7 +3406,11 @@
                                                 Tunisia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tn.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tn.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Tunisia Flag">
                                         </div>
                                     </div>
@@ -2525,7 +3421,11 @@
                                                 Turkey
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tr.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tr.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Turkey Flag">
                                         </div>
                                     </div>
@@ -2536,7 +3436,11 @@
                                                 Turkmenistan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Turkmenistan Flag">
                                         </div>
                                     </div>
@@ -2548,7 +3452,11 @@
                                                 Turks and Caicos Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tc.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tc.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Turks and Caicos Islands Flag">
                                         </div>
                                     </div>
@@ -2559,7 +3467,11 @@
                                                 Tuvalu
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/tv.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/tv.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Tuvalu Flag">
                                         </div>
                                     </div>
@@ -2570,7 +3482,11 @@
                                                 Uganda
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ug.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ug.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Uganda Flag">
                                         </div>
                                     </div>
@@ -2581,7 +3497,11 @@
                                                 Ukraine
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ua.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ua.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Ukraine Flag">
                                         </div>
                                     </div>
@@ -2592,7 +3512,11 @@
                                                 United Arab Emirates
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ae.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ae.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="United Arab Emirates Flag">
                                         </div>
                                     </div>
@@ -2603,7 +3527,11 @@
                                                 United Kingdom
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/gb.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/gb.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="United Kingdom Flag">
                                         </div>
                                     </div>
@@ -2615,7 +3543,11 @@
                                                 United States Minor Outlying Islands
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/um.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/um.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="United States Minor Outlying Islands Flag">
                                         </div>
                                     </div>
@@ -2627,7 +3559,11 @@
                                                 United States of America
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/us.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/us.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="United States of America Flag">
                                         </div>
                                     </div>
@@ -2638,7 +3574,11 @@
                                                 Uruguay
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/uy.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/uy.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Uruguay Flag">
                                         </div>
                                     </div>
@@ -2649,7 +3589,11 @@
                                                 Uzbekistan
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/uz.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/uz.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Uzbekistan Flag">
                                         </div>
                                     </div>
@@ -2660,7 +3604,11 @@
                                                 Vanuatu
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/vu.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/vu.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Vanuatu Flag">
                                         </div>
                                     </div>
@@ -2672,7 +3620,11 @@
                                                 Venezuela (Bolivarian Republic of)
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ve.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ve.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Venezuela (Bolivarian Republic of) Flag">
                                         </div>
                                     </div>
@@ -2683,7 +3635,11 @@
                                                 Vietnam
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/vn.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/vn.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Vietnam Flag">
                                         </div>
                                     </div>
@@ -2695,7 +3651,11 @@
                                                 Virgin Islands (British)
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/vg.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/vg.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Virgin Islands (British) Flag">
                                         </div>
                                     </div>
@@ -2707,7 +3667,11 @@
                                                 Virgin Islands (U.S.)
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/vi.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/vi.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Virgin Islands (U.S.) Flag">
                                         </div>
                                     </div>
@@ -2718,7 +3682,11 @@
                                                 Wallis and Futuna
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/wf.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/wf.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Wallis and Futuna Flag">
                                         </div>
                                     </div>
@@ -2729,7 +3697,11 @@
                                                 Western Sahara
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/eh.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/eh.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Western Sahara Flag">
                                         </div>
                                     </div>
@@ -2740,7 +3712,11 @@
                                                 Yemen
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/ye.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/ye.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Yemen Flag">
                                         </div>
                                     </div>
@@ -2751,7 +3727,11 @@
                                                 Zambia
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/zm.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/zm.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Zambia Flag">
                                         </div>
                                     </div>
@@ -2762,7 +3742,11 @@
                                                 Zimbabwe
                                             </div>
                                             <img class="img-fluid"
+<<<<<<< HEAD:resources/views/pages/template/modules-flag.blade.php
                                                 src="{{ asset('assets/library/flag-icon-css/flags/4x3/zw.svg') }}"
+=======
+                                                src="{{ asset('library/flag-icon-css/flags/4x3/zw.svg') }}"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-flag.blade.php
                                                 alt="Zimbabwe Flag">
                                         </div>
                                     </div>

@@ -4,7 +4,12 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/components-multiple-upload.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/dropzone/dist/dropzone.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/dropzone/dist/dropzone.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/components-multiple-upload.blade.php
 @endpush
 
 @section('main')
@@ -33,9 +38,13 @@
                                 <h4>Multiple Upload</h4>
                             </div>
                             <div class="card-body">
-                                <form action="#" class="dropzone" id="mydropzone">
+                                <form action="#"
+                                    class="dropzone"
+                                    id="mydropzone">
                                     <div class="fallback">
-                                        <input name="file" type="file" multiple />
+                                        <input name="file"
+                                            type="file"
+                                            multiple />
                                     </div>
                                 </form>
                             </div>
@@ -49,7 +58,11 @@
 
 @push('scripts')
     <!-- JS Libraies -->
+<<<<<<< HEAD:resources/views/pages/template/components-multiple-upload.blade.php
     <script src="{{ asset('assets/library/dropzone/dist/min/dropzone.min.js') }}"></script>
+=======
+    <script src="{{ asset('library/dropzone/dist/min/dropzone.min.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/components-multiple-upload.blade.php
 
     <!-- Page Specific JS File -->
     <script src="{{ asset('js/page/components-multiple-upload.js') }}"></script>

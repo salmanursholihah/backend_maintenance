@@ -507,7 +507,11 @@
 
 @push('scripts')
     <!-- JS Libraies -->
+<<<<<<< HEAD:resources/views/pages/template/components-table.blade.php
     <script src="{{ asset('assets/library/jquery-ui-dist/jquery-ui.min.js') }}"></script>
+=======
+    <script src="{{ asset('library/jquery-ui-dist/jquery-ui.min.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/components-table.blade.php
 
     <!-- Page Specific JS File -->
     <script src="{{ asset('js/page/components-table.js') }}"></script>

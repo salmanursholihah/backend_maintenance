@@ -7,8 +7,15 @@
     <title>Contact &mdash; Stisla</title>
 
     <!-- General CSS Files -->
+<<<<<<< HEAD:resources/views/pages/template/utilities-contact.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/bootstrap/dist/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/bootstrap/dist/css/bootstrap.min.css') }}">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/utilities-contact.blade.php
         integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 
@@ -105,17 +112,30 @@
     </div>
 
     <!-- General JS Scripts -->
+<<<<<<< HEAD:resources/views/pages/template/utilities-contact.blade.php
     <script src="{{ asset('assets/library/jquery/dist/jquery.min.js') }}"></script>
     <script src="{{ asset('assets/library/popper.js/dist/umd/popper.js') }}"></script>
     <script src="{{ asset('assets/library/tooltip.js/dist/umd/tooltip.js') }}"></script>
     <script src="{{ asset('assets/library/bootstrap/dist/js/bootstrap.min.js') }}"></script>
     <script src="{{ asset('assets/library/jquery.nicescroll/dist/jquery.nicescroll.min.js') }}"></script>
     <script src="{{ asset('assets/library/moment/min/moment.min.js') }}"></script>
+=======
+    <script src="{{ asset('library/jquery/dist/jquery.min.js') }}"></script>
+    <script src="{{ asset('library/popper.js/dist/umd/popper.js') }}"></script>
+    <script src="{{ asset('library/tooltip.js/dist/umd/tooltip.js') }}"></script>
+    <script src="{{ asset('library/bootstrap/dist/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('library/jquery.nicescroll/dist/jquery.nicescroll.min.js') }}"></script>
+    <script src="{{ asset('library/moment/min/moment.min.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/utilities-contact.blade.php
     <script src="{{ asset('js/stisla.js') }}"></script>
 
     <!-- JS Libraies -->
     <script src="http://maps.google.com/maps/api/js?key=AIzaSyB55Np3_WsZwUQ9NS7DP-HnneleZLYZDNw&amp;sensor=true"></script>
+<<<<<<< HEAD:resources/views/pages/template/utilities-contact.blade.php
     <script src="{{ asset('assets/library/gmaps/gmaps.js') }}"></script>
+=======
+    <script src="{{ asset('library/gmaps/gmaps.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/utilities-contact.blade.php
 
     <!-- Page Specific JS File -->
     <script src="{{ asset('js/page/utilities-contact.js') }}"></script>

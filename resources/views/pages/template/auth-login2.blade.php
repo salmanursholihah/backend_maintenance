@@ -7,13 +7,25 @@
     <title>Login &mdash; Stisla</title>
 
     <!-- General CSS Files -->
+<<<<<<< HEAD:resources/views/pages/template/auth-login2.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/bootstrap/dist/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/bootstrap/dist/css/bootstrap.min.css') }}">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/auth-login2.blade.php
         integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/auth-login2.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/bootstrap-social/bootstrap-social.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/bootstrap-social/bootstrap-social.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/auth-login2.blade.php
 
     <!-- Template CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
@@ -105,12 +117,12 @@
     </div>
 
     <!-- General JS Scripts -->
-    <script src="{{ asset('assets/library/jquery/dist/jquery.min.js') }}"></script>
-    <script src="{{ asset('assets/library/popper.js/dist/umd/popper.js') }}"></script>
-    <script src="{{ asset('assets/library/tooltip.js/dist/umd/tooltip.js') }}"></script>
-    <script src="{{ asset('assets/library/bootstrap/dist/js/bootstrap.min.js') }}"></script>
-    <script src="{{ asset('assets/library/jquery.nicescroll/dist/jquery.nicescroll.min.js') }}"></script>
-    <script src="{{ asset('assets/library/moment/min/moment.min.js') }}"></script>
+    <script src="{{ asset('library/jquery/dist/jquery.min.js') }}"></script>
+    <script src="{{ asset('library/popper.js/dist/umd/popper.js') }}"></script>
+    <script src="{{ asset('library/tooltip.js/dist/umd/tooltip.js') }}"></script>
+    <script src="{{ asset('library/bootstrap/dist/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('library/jquery.nicescroll/dist/jquery.nicescroll.min.js') }}"></script>
+    <script src="{{ asset('library/moment/min/moment.min.js') }}"></script>
     <script src="{{ asset('js/stisla.js') }}"></script>
 
     <!-- JS Libraies -->

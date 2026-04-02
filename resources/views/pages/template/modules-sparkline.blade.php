@@ -78,7 +78,11 @@
 
 @push('scripts')
     <!-- JS Libraies -->
+<<<<<<< HEAD:resources/views/pages/template/modules-sparkline.blade.php
     <script src="{{ asset('assets/library/jquery-sparkline/jquery.sparkline.min.js') }}"></script>
+=======
+    <script src="{{ asset('library/jquery-sparkline/jquery.sparkline.min.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-sparkline.blade.php
 
     <!-- Page Specific JS File -->
     <script src="{{ asset('js/page/modules-sparkline.js') }}"></script>

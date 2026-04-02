@@ -4,7 +4,12 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/auth-login.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/bootstrap-social/bootstrap-social.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/bootstrap-social/bootstrap-social.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/auth-login.blade.php
 @endpush
 
 @section('main')

@@ -4,7 +4,12 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/auth-register.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/selectric/public/selectric.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/selectric/public/selectric.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/auth-register.blade.php
 @endpush
 
 @section('main')
@@ -101,8 +106,8 @@
 
 @push('scripts')
     <!-- JS Libraies -->
-    <script src="{{ asset('assets/library/selectric/public/jquery.selectric.min.js') }}"></script>
-    <script src="{{ asset('assets/library/jquery.pwstrength/jquery.pwstrength.min.js') }}"></script>
+    <script src="{{ asset('library/selectric/public/jquery.selectric.min.js') }}"></script>
+    <script src="{{ asset('library/jquery.pwstrength/jquery.pwstrength.min.js') }}"></script>
 
     <!-- Page Specific JS File -->
     <script src="{{ asset('js/page/auth-register.js') }}"></script>

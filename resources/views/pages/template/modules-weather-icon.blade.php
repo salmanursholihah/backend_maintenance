@@ -4,8 +4,15 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/modules-weather-icon.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/weathericons/css/weather-icons.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/library/weathericons/css/weather-icons-wind.min.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/weathericons/css/weather-icons.min.css') }}">
+    <link rel="stylesheet"
+        href="{{ asset('library/weathericons/css/weather-icons-wind.min.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/modules-weather-icon.blade.php
 @endpush
 
 @section('main')

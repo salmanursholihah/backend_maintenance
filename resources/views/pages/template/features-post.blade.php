@@ -4,7 +4,12 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD:resources/views/pages/template/features-post.blade.php
     <link rel="stylesheet" href="{{ asset('assets/library/selectric/public/selectric.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/selectric/public/selectric.css') }}">
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/features-post.blade.php
 @endpush
 
 @section('main')
@@ -308,7 +313,11 @@
 
 @push('scripts')
     <!-- JS Libraies -->
+<<<<<<< HEAD:resources/views/pages/template/features-post.blade.php
     <script src="{{ asset('assets/library/selectric/public/jquery.selectric.min.js') }}"></script>
+=======
+    <script src="{{ asset('library/selectric/public/jquery.selectric.min.js') }}"></script>
+>>>>>>> 524fbaa5e5e1e1a8ae05a0ba09c0756db7937190:resources/views/pages/features-post.blade.php
 
     <!-- Page Specific JS File -->
     <script src="{{ asset('js/page/features-posts.js') }}"></script>
