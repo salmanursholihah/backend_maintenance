@@ -25,92 +25,93 @@ class User extends Authenticatable
      *
      * @var array<int, string>
      */
-    protected $hidden = [
+       protected $hidden = [
         'password',
         'remember_token',
     ];
-
-    /**
-     * The attributes that should be cast.
-     *
-     * @var array<string, string>
-     */
+ 
     protected $casts = [
         'email_verified_at' => 'datetime',
-        'password' => 'hashed',
+        'password'          => 'hashed',
+        'is_active'         => 'boolean',
     ];
-
-      // =========================
-    // CUSTOMER
-    // =========================
-    public function locations()
+ 
+    // ─── Role Helpers ──────────────────────────────────────────────
+    public function isAdmin(): bool
+    {
+        return $this->role === 'admin';
+    }
+ 
+    public function isCustomer(): bool
+    {
+        return $this->role === 'customer';
+    }
+ 
+    public function isTechnician(): bool
+    {
+        return $this->role === 'technician';
+    }
+ 
+    public function getPhotoUrlAttribute(): ?string
+    {
+        return $this->photo
+            ? asset('storage/' . $this->photo)
+            : null;
+    }
+ 
+    // ─── Relationships ─────────────────────────────────────────────
+ 
+    // 1 user (customer) punya banyak lokasi IPAL
+    public function maintenanceLocations()
     {
         return $this->hasMany(MaintenanceLocation::class);
     }
-
+ 
+    // 1 user (customer) punya banyak booking
     public function bookings()
     {
         return $this->hasMany(Booking::class);
     }
-
-    public function reviews()
-    {
-        return $this->hasMany(Review::class);
-    }
-
-    // =========================
-    // TECHNICIAN
-    // =========================
+ 
+    // 1 user (technician) bisa di-assign ke banyak booking
     public function bookingTechnicians()
     {
         return $this->hasMany(BookingTechnician::class, 'technician_id');
     }
-
+ 
+    // 1 user (technician) buat banyak survey result
     public function surveyResults()
     {
         return $this->hasMany(SurveyResult::class, 'technician_id');
     }
-
-    public function priceReferences()
-    {
-        return $this->hasMany(TechnicianPriceReference::class, 'technician_id');
-    }
-
-    public function progresses()
+ 
+    // 1 user (technician) buat banyak progress
+    public function bookingProgresses()
     {
         return $this->hasMany(BookingProgress::class, 'technician_id');
     }
-
+ 
+    // 1 user (technician) buat banyak laporan
     public function maintenanceReports()
     {
         return $this->hasMany(MaintenanceReport::class, 'technician_id');
     }
-
-    public function technicianReviews()
+ 
+    // 1 user (customer) buat banyak review
+    public function reviews()
     {
-        return $this->hasMany(Review::class, 'technician_id');
+        return $this->hasMany(Review::class);
     }
-
-    // =========================
-    // NOTIFICATION / CHAT
-    // =========================
-    public function notifications()
-    {
-        return $this->hasMany(Notification::class);
-    }
-
-    public function customerChatRooms()
+ 
+    // 1 user (customer) punya banyak chat room
+    public function chatRoomsAsCustomer()
     {
         return $this->hasMany(ChatRoom::class, 'customer_id');
     }
-
-    public function technicianChatRooms()
+ 
+    // 1 user (technician) punya banyak chat room
+    public function chatRoomsAsTechnician()
     {
         return $this->hasMany(ChatRoom::class, 'technician_id');
-    }
-
-    public function sentMessages()
-    {
-        return $this->hasMany(ChatMessage::class, 'sender_id');
     }
 }

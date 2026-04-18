@@ -5,16 +5,14 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Service extends Model
+class Component extends Model
 {
     use HasFactory;
-
     protected $guarded = [];
 
-      protected $casts = [
-        'base_price'          => 'decimal:2',
-        'duration_estimation' => 'integer',
-        'is_active'           => 'boolean',
+     protected $casts = [
+        'default_price' => 'decimal:2',
+        'is_active'     => 'boolean',
     ];
  
     // ─── Scopes ───────────────────────────────────────────────────
@@ -23,11 +21,16 @@ class Service extends Model
         return $query->where('is_active', true);
     }
  
+    public function scopeOfType($query, string $type)
+    {
+        return $query->where('type', $type);
+    }
+ 
     // ─── Relationships ─────────────────────────────────────────────
  
-    // 1 service dipakai di banyak booking_details
-    public function bookingDetails()
+    // 1 component dipakai di banyak survey result item
+    public function surveyResultItems()
     {
-        return $this->hasMany(BookingDetail::class);
+        return $this->hasMany(SurveyResultItem::class);
     }
 }
