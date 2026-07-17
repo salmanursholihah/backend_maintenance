@@ -8,24 +8,4 @@ use Illuminate\Database\Eloquent\Model;
 class Review extends Model
 {
     use HasFactory;
-        protected $guarded = [];
-
-protected $casts = [
-        'rating' => 'integer',
-    ];
-
-    public function booking()
-    {
-        return $this->belongsTo(Booking::class);
-    }
-
-    public function user()
-    {
-        return $this->belongsTo(User::class);
-    }
-
-    public function technician()
-    {
-        return $this->belongsTo(User::class, 'technician_id');
-    }
 }
