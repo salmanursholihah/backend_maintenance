@@ -27,3 +27,5 @@ public function index()
         return back()->with('success', 'Payment approved');
     }
 }
+
+

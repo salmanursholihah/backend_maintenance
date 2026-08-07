@@ -3,7 +3,8 @@
 namespace App\Http\Controllers\Api\Customer;
 
 use App\Http\Controllers\Controller;
-use App\Models\Notification;
+use App\Models\AppNotification as Notification;
+
 use Illuminate\Http\Request;
 
 class CustomerNotificationController extends Controller
@@ -49,3 +50,7 @@ class CustomerNotificationController extends Controller
             'message' => 'Semua notification berhasil ditandai sudah dibaca',
         ]);
     }}
+
+
+
+    

@@ -8,4 +8,11 @@ use Illuminate\Database\Eloquent\Model;
 class ReportPhoto extends Model
 {
     use HasFactory;
+
+    protected $guarded = [];
+
+    public function maintenancereports()
+    {
+        return $this->belongsTo(MaintenanceReport::class);
+    }
 }

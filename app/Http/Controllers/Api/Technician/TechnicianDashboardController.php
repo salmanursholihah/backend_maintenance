@@ -5,7 +5,8 @@ namespace App\Http\Controllers\Api\Technician;
 use App\Http\Controllers\Controller;
 use App\Models\Booking;
 use App\Models\BookingTechnician;
-use App\Models\Notification;
+use App\Models\AppNotification as Notification;
+
 use App\Models\Payment;
 use Illuminate\Http\Request;
 
@@ -78,3 +79,6 @@ public function index(Request $request)
             ],
         ]);
     }}
+
+
+    

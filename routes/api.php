@@ -20,8 +20,12 @@ use App\Http\Controllers\Api\Technician\TechnicianProfileController;
 use App\Http\Controllers\Api\Technician\TechnicianProgressController;
 use App\Http\Controllers\Api\Technician\TechnicianReportController;
 use App\Http\Controllers\Api\Technician\TechnicianSurveyController;
+use App\Http\Controllers\Api\Webhook\MidtransWebhookController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Api\Technician\TechnicianBankAccountController;
+use App\Http\Controllers\Api\Technician\TechnicianWithdrawalController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -38,6 +42,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
+    Route::post('/webhook/midtrans', [MidtransWebhookController::class, 'handle']);
 
 Route::prefix('auth')->group(function () {
     Route::post('/register/customer', [AuthController::class, 'registerCustomer']);
@@ -85,7 +90,9 @@ Route::prefix('customer')
         // payment
         Route::get('/bookings/{id}/payments', [CustomerPaymentController::class, 'index']);
         Route::post('/bookings/{id}/payments', [CustomerPaymentController::class, 'store']);
-        Route::get('/payments/{paymentId}', [CustomerPaymentController::class, 'show']);
+    Route::get('/payments/{paymentId}', [CustomerPaymentController::class, 'showByPaymentId']);
+    Route::post('/bookings/{id}/payment', [CustomerPaymentController::class, 'createTransaction']);
+    Route::get('/bookings/{id}/payment', [CustomerPaymentController::class, 'show']);
 
         // review
         Route::post('/bookings/{id}/review', [CustomerReviewController::class, 'store']);
@@ -101,19 +108,33 @@ Route::prefix('customer')
         Route::post('/chats/room-by-booking/{bookingId}', [CustomerChatController::class, 'findOrCreateRoom']);
         Route::get('/chats/{roomId}/messages', [CustomerChatController::class, 'messages']);
         Route::post('/chats/{roomId}/messages', [CustomerChatController::class, 'sendMessage']);
+
+
+    Route::post('/bookings/{id}/approve-survey', [CustomerBookingController::class, 'approveSurvey']);
+    Route::post('/bookings/{id}/approve-estimation', [CustomerBookingController::class, 'approveEstimation']);
+    Route::post('/bookings/{id}/reject-estimation', [CustomerBookingController::class, 'rejectEstimation']);
+
+
+    // routes/api.php — grup customer (sesuaikan middleware/prefix yang sudah ada)
+    Route::post('/customer/bookings/{id}/approve-survey', [\App\Http\Controllers\Api\Customer\SurveyApprovalController::class, 'approve']);
+    Route::post('/customer/bookings/{id}/reject-survey', [\App\Http\Controllers\Api\Customer\SurveyApprovalController::class, 'reject']);
     });
+
 
 Route::prefix('technician')
     ->middleware(['auth:sanctum', 'role:technician'])
     ->group(function () {
         Route::get('/dashboard', [TechnicianDashboardController::class, 'index']);
 
-        // profile
-        Route::get('/profile', [TechnicianProfileController::class, 'show']);
-        Route::post('/profile', [TechnicianProfileController::class, 'update']);
+    // profile
+    // profile
+    Route::get('/profile', [TechnicianProfileController::class, 'show']);
+    Route::post('/profile', [TechnicianProfileController::class, 'update']);
+    Route::post('/profile/photo', [TechnicianProfileController::class, 'uploadPhoto']);
 
-        // incoming survey bookings / active orders
-        Route::get('/bookings/incoming', [TechnicianBookingController::class, 'incoming']);
+    // BARU
+    // incoming survey bookings / active orders
+    Route::get('/bookings/incoming', [TechnicianBookingController::class, 'incoming']);
         Route::get('/bookings/schedules', [TechnicianBookingController::class, 'schedules']);
         Route::get('/bookings/active', [TechnicianBookingController::class, 'active']);
         Route::get('/bookings/history', [TechnicianBookingController::class, 'history']);
@@ -124,9 +145,13 @@ Route::prefix('technician')
         Route::post('/bookings/{id}/schedule-survey', [TechnicianBookingController::class, 'scheduleSurvey']);
         Route::post('/bookings/{id}/start-maintenance', [TechnicianBookingController::class, 'startMaintenance']);
         Route::post('/bookings/{id}/complete', [TechnicianBookingController::class, 'complete']);
+    Route::post('/bookings/{id}/start-survey', [TechnicianBookingController::class, 'startSurvey']);
+    // routes/api.php
+    Route::post('/technician/bookings/{id}/estimate', [TechnicianBookingController::class, 'submitEstimate']);
 
-        // survey
-        Route::get('/bookings/{id}/survey', [TechnicianSurveyController::class, 'show']);
+
+    // survey
+    Route::get('/bookings/{id}/survey', [TechnicianSurveyController::class, 'show']);
         Route::post('/bookings/{id}/survey', [TechnicianSurveyController::class, 'storeOrUpdate']);
         Route::post('/bookings/{id}/survey/submit', [TechnicianSurveyController::class, 'submit']);
 
@@ -157,4 +182,15 @@ Route::prefix('technician')
 
         // income
         Route::get('/income/summary', [TechnicianIncomeController::class, 'summary']);
+
+
+    Route::get('technician/bank-accounts', [TechnicianBankAccountController::class, 'index']);
+    Route::post('technician/bank-accounts', [TechnicianBankAccountController::class, 'store']);
+    Route::delete('technician/bank-accounts/{id}', [TechnicianBankAccountController::class, 'destroy']);
+
+    Route::get('technician/withdrawals/balance', [TechnicianWithdrawalController::class, 'balance']);
+    Route::get('technician/withdrawals/history', [TechnicianWithdrawalController::class, 'history']);
+    Route::post('technician/withdrawals', [TechnicianWithdrawalController::class, 'store']);
+
+    Route::post('/bookings/{id}/survey-result', [TechnicianSurveyController::class, 'store']);
     });

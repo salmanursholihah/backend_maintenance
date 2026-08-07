@@ -5,12 +5,13 @@ namespace App\Http\Controllers\Api\Customer;
 use App\Http\Controllers\Controller;
 use App\Models\Booking;
 use App\Models\SurveyResult;
+use App\Services\NotificationService;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
 class CustomerEstimateController extends Controller
 {
-  public function show(Request $request, $id)
+    public function show(Request $request, $id)
     {
         $booking = Booking::where('user_id', $request->user()->id)->findOrFail($id);
 
@@ -48,6 +49,14 @@ class CustomerEstimateController extends Controller
             ]);
         });
 
+        NotificationService::send(
+            userId: $survey->technician_id,
+            title: 'Estimasi Disetujui',
+            message: 'Customer telah menyetujui estimasi untuk booking ' . $booking->booking_code . '. Menunggu pembayaran.',
+            type: 'estimate_approved',
+            bookingId: $booking->id,
+        );
+
         return response()->json([
             'message' => 'Estimasi disetujui',
         ]);
@@ -56,6 +65,10 @@ class CustomerEstimateController extends Controller
     public function reject(Request $request, $id)
     {
         $booking = Booking::where('user_id', $request->user()->id)->findOrFail($id);
+
+        $data = $request->validate([
+            'reason' => ['nullable', 'string'],
+        ]);
 
         $survey = SurveyResult::where('booking_id', $booking->id)
             ->where('status', 'submitted')
@@ -72,6 +85,15 @@ class CustomerEstimateController extends Controller
             ]);
         });
 
+        NotificationService::send(
+            userId: $survey->technician_id,
+            title: 'Estimasi Ditolak',
+            message: 'Customer menolak estimasi untuk booking ' . $booking->booking_code
+                . (!empty($data['reason']) ? '. Alasan: ' . $data['reason'] : '.'),
+            type: 'estimate_rejected',
+            bookingId: $booking->id,
+        );
+
         return response()->json([
             'message' => 'Estimasi ditolak',
         ]);
@@ -86,4 +108,7 @@ class CustomerEstimateController extends Controller
             'data' => $booking,
         ]);
     }
-    }
+}
+
+
+

@@ -21,6 +21,15 @@ class DatabaseSeeder extends Seeder
         $this->call([
             MaintenanceSeeder::class,
         ]);
+        $this->call([
+            MaintenanceExtraSeeder::class,
+        ]);
+        $this->call([
+            NotificationSeeder::class,
+        ]);
+        $this->call([
+            HistoryBookingSeeder::class,
+        ]);
 
     }
 }

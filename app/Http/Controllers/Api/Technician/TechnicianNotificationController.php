@@ -3,7 +3,8 @@
 namespace App\Http\Controllers\Api\Technician;
 
 use App\Http\Controllers\Controller;
-use App\Models\Notification;
+use App\Models\AppNotification as Notification;
+
 use Illuminate\Http\Request;
 
 class TechnicianNotificationController extends Controller
@@ -50,3 +51,5 @@ class TechnicianNotificationController extends Controller
         ]);
     }
 }
+
+

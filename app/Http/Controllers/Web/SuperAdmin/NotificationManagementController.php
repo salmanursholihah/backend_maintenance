@@ -3,7 +3,8 @@
 namespace App\Http\Controllers\Web\SuperAdmin;
 
 use App\Http\Controllers\Controller;
-use App\Models\Notification;
+use App\Models\AppNotification as Notification;
+
 use Illuminate\Http\Request;
 
 class NotificationManagementController extends Controller
@@ -15,3 +16,6 @@ class NotificationManagementController extends Controller
         return view('pages.notifications.index', compact('notifications'));
     }
 }
+
+
+

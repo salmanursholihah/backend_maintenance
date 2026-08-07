@@ -5,11 +5,12 @@ namespace App\Http\Controllers\Api\Technician;
 use App\Http\Controllers\Controller;
 use App\Models\Booking;
 use App\Models\BookingProgress;
+use App\Services\NotificationService;
 use Illuminate\Http\Request;
 
 class TechnicianProgressController extends Controller
 {
-public function index(Request $request, $id)
+    public function index(Request $request, $id)
     {
         $booking = Booking::findOrFail($id);
 
@@ -24,6 +25,15 @@ public function index(Request $request, $id)
     public function store(Request $request, $id)
     {
         $booking = Booking::findOrFail($id);
+
+        // Progress hanya valid kalau maintenance memang sudah resmi dimulai
+        // lewat startMaintenance() — mencegah progress ditambahkan pada
+        // booking yang statusnya belum sampai tahap maintenance sama sekali.
+        if ($booking->status !== 'maintenance_on_progress') {
+            return response()->json([
+                'message' => 'Progres tidak dapat ditambahkan karena maintenance belum dimulai.',
+            ], 422);
+        }
 
         $data = $request->validate([
             'title' => ['required', 'string', 'max:255'],
@@ -47,9 +57,19 @@ public function index(Request $request, $id)
             'status' => 'maintenance_on_progress',
         ]);
 
+        NotificationService::send(
+            userId: $booking->user_id,
+            title: 'Update Progres Maintenance',
+            message: $data['title'] . ($data['description'] ? ': ' . $data['description'] : '') . ' (' . $data['progress_percent'] . '% selesai)',
+            type: 'progress',
+            bookingId: $booking->id,
+        );
+
         return response()->json([
             'message' => 'Progress berhasil ditambahkan',
             'data' => $progress,
         ], 201);
     }
 }
+
+

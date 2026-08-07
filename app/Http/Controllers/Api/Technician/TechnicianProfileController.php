@@ -3,17 +3,18 @@
 namespace App\Http\Controllers\Api\Technician;
 
 use App\Http\Controllers\Controller;
-use App\Models\Rule;
+use Illuminate\Validation\Rule;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Storage; // BARU
 
 class TechnicianProfileController extends Controller
 {
-public function show(Request $request)
+    public function show(Request $request)
     {
         return response()->json([
             'message' => 'Profile teknisi berhasil diambil',
-            'data' => $request->user(),
+            'data' => $this->withPhotoUrl($request->user()), // diubah
         ]);
     }
 
@@ -51,6 +52,44 @@ public function show(Request $request)
 
         return response()->json([
             'message' => 'Profile teknisi berhasil diupdate',
-            'data' => $user->fresh(),
+            'data' => $this->withPhotoUrl($user->fresh()), // diubah
         ]);
-    }}
+    }
+
+    // BARU
+    public function uploadPhoto(Request $request)
+    {
+        $request->validate([
+            'photo' => ['required', 'image', 'mimes:jpg,jpeg,png', 'max:2048'],
+        ]);
+
+        $user = $request->user();
+
+        // hapus foto lama biar storage nggak numpuk
+        if ($user->photo && Storage::disk('public')->exists($user->photo)) {
+            Storage::disk('public')->delete($user->photo);
+        }
+
+        $path = $request->file('photo')->store('profile-photos', 'public');
+
+        $user->update(['photo' => $path]);
+
+        return response()->json([
+            'message' => 'Foto profil berhasil diperbarui',
+            'data' => $this->withPhotoUrl($user->fresh()),
+        ]);
+    }
+
+    // BARU — satu sumber kebenaran buat transform path -> URL
+    private function withPhotoUrl($user)
+    {
+        $data = $user->toArray();
+        $data['photo'] = $user->photo
+            ? Storage::disk('public')->url($user->photo)
+            : null;
+        return $data;
+    }
+}
+
+
+

@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Api\Customer;
 use App\Http\Controllers\Controller;
 use App\Models\Booking;
 use App\Models\MaintenanceLocation;
-use App\Models\Notification;
+use App\Models\AppNotification as Notification;
 use App\Models\Payment;
 use Illuminate\Http\Request;
 
@@ -66,3 +66,6 @@ class CustomerDashboardController extends Controller
             ],
         ]);
     }}
+
+
+    

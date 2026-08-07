@@ -52,3 +52,9 @@ public function rooms(Request $request)
             'data' => $message,
         ], 201);
     }}
+
+
+
+
+
+    

@@ -1,31 +1,27 @@
-```php id="bnedx7"
 @extends('layouts.auth')
 
+@section('title', 'Lupa Password')
+
 @section('content')
+<p class="text-muted mb-4">Masukkan email akun Anda, kami akan mengirimkan link untuk reset password.</p>
 
-<div class="card card-primary">
-    <div class="card-header">
-        <h4>Forgot Password</h4>
+<form method="POST" action="{{ route('forgot-password.submit') }}">
+    @csrf
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input id="email" type="email" class="form-control @error('email') is-invalid @enderror"
+               name="email" value="{{ old('email') }}" required autofocus placeholder="admin@ipal.com">
+        @error('email')
+            <span class="invalid-feedback"><strong>{{ $message }}</strong></span>
+        @enderror
     </div>
 
-    <div class="card-body">
-
-        <form method="POST" action="{{ route('forgot.password.submit') }}">
-            @csrf
-
-            <div class="form-group">
-                <label>Email</label>
-                <input type="email" name="email" class="form-control" required>
-            </div>
-
-            <button class="btn btn-primary btn-block">
-                Kirim Reset Link
-            </button>
-
-        </form>
-
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary btn-lg btn-block">Kirim Link Reset</button>
     </div>
-</div>
 
+    <div class="text-center">
+        <a href="{{ route('login') }}">Kembali ke Login</a>
+    </div>
+</form>
 @endsection
-```

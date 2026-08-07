@@ -6,11 +6,12 @@ use App\Http\Controllers\Controller;
 use App\Models\Booking;
 use App\Models\BookingTechnician;
 use App\Models\Review;
+use App\Services\NotificationService;
 use Illuminate\Http\Request;
 
 class CustomerReviewController extends Controller
 {
-public function store(Request $request, $id)
+    public function store(Request $request, $id)
     {
         $booking = Booking::where('user_id', $request->user()->id)->findOrFail($id);
 
@@ -34,6 +35,17 @@ public function store(Request $request, $id)
             ]
         );
 
+        $stars = str_repeat('⭐', $data['rating']);
+
+        NotificationService::send(
+            userId: $assigned->technician_id,
+            title: 'Ulasan Baru Diterima',
+            message: 'Booking ' . $booking->booking_code . ' mendapat rating ' . $stars
+                . ($data['review'] ? ': "' . $data['review'] . '"' : '.'),
+            type: 'review',
+            bookingId: $booking->id,
+        );
+
         return response()->json([
             'message' => 'Review berhasil dikirim',
             'data' => $review,
@@ -48,4 +60,6 @@ public function store(Request $request, $id)
 
         return response()->json(['data' => $review]);
     }
-    }
+}
+
+

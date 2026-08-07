@@ -1,97 +1,56 @@
-{{-- @extends('layouts.app')
-
-@section('main')
-    <section class="section">
-        <div class="section-header">
-            <h1>Technicians</h1>
-        </div>
-
-        <div class="section-body">
-            <div class="card">
-                <div class="card-header">
-                    <h4>Data Technicians</h4>
-                </div>
-
-                <div class="card-body">
-
-                    <div class="table-responsive">
-                        <table class="table table-striped table-md">
-
-                            <thead>
-                                <tr>
-                                    <th>Nama</th>
-                                    <th>Email</th>
-                                    <th>Skill</th>
-                                </tr>
-                            </thead>
-
-                            <tbody>
-                                @forelse($technicians as $technician)
-                                    <tr>
-                                        <td>{{ $technician->name }}</td>
-                                        <td>{{ $technician->email }}</td>
-                                        <td>{{ $technician->skill }}</td>
-                                    </tr>
-                                @empty
-                                    <tr>
-                                        <td colspan="3" class="text-center">
-                                            Data technician kosong
-                                        </td>
-                                    </tr>
-                                @endforelse
-                            </tbody>
-
-                        </table>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-@endsection --}}
-
-
-
 @extends('layouts.app')
 
-@section('main')
-    <section class="section">
-        <div class="section-header">
-            <h1>Technicians</h1>
+@section('title', 'Teknisi')
+
+@section('content')
+<div class="card">
+    <div class="card-header">
+        <h4>Daftar Teknisi</h4>
+    </div>
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-striped mb-0">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Nama</th>
+                        <th>Email</th>
+                        <th>No. HP</th>
+                        <th>Status</th>
+                        <th class="text-right">Aksi</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @forelse ($technicians as $technician)
+                        <tr>
+                            <td>{{ $loop->iteration + ($technicians->currentPage() - 1) * $technicians->perPage() }}</td>
+                            <td>{{ $technician->name }}</td>
+                            <td>{{ $technician->email }}</td>
+                            <td>{{ $technician->phone ?? '-' }}</td>
+                            <td>
+                                <span class="badge badge-{{ $technician->is_active ? 'success' : 'secondary' }}">
+                                    {{ $technician->is_active ? 'Aktif' : 'Nonaktif' }}
+                                </span>
+                            </td>
+                            <td class="text-right">
+                                <form method="POST" action="{{ route('users.toggle-status', $technician->id) }}" class="d-inline">
+                                    @csrf
+                                    <button type="submit" class="btn btn-sm btn-{{ $technician->is_active ? 'danger' : 'success' }}"
+                                            onclick="return confirm('Yakin ingin mengubah status teknisi ini?')">
+                                        <i class="fas fa-power-off"></i> {{ $technician->is_active ? 'Nonaktifkan' : 'Aktifkan' }}
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    @empty
+                        <tr><td colspan="6" class="text-center text-muted py-4">Belum ada teknisi.</td></tr>
+                    @endforelse
+                </tbody>
+            </table>
         </div>
-
-        <div class="section-body">
-            <div class="card">
-                <div class="card-header">
-                    <h4>Data Technicians</h4>
-                </div>
-
-                <div class="card-body">
-                    <div class="table-responsive">
-                        <table class="table table-striped">
-
-                            <thead>
-                                <tr>
-                                    <th>Nama</th>
-                                    <th>Email</th>
-                                    <th>Skill</th>
-                                </tr>
-                            </thead>
-
-                            <tbody>
-                                @foreach ($technicians as $technician)
-                                    <tr>
-                                        <td>{{ $technician->name }}</td>
-                                        <td>{{ $technician->email }}</td>
-                                        <td>{{ $technician->skill }}</td>
-                                    </tr>
-                                @endforeach
-                            </tbody>
-
-                        </table>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    </div>
+    <div class="card-footer">
+        {{ $technicians->links() }}
+    </div>
+</div>
 @endsection

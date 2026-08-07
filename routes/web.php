@@ -270,7 +270,6 @@ use Illuminate\Support\Facades\Route;
 // });
 
 
-
 Route::get('/login', [AuthController::class, 'login'])->name('login');
 
 Route::middleware('guest')->group(function () {
@@ -281,27 +280,27 @@ Route::middleware('guest')->group(function () {
     Route::post('/forgot-password-submit', [AuthController::class, 'forgotPasswordSubmit'])->name('forgot.password.submit');
     Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 });
-Route::get('/dashboard', [DashboardController::class, 'index']);
+Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
 
 Route::middleware(['auth', 'role:admin'])->group(function () {
 
-    Route::get('/customers', [UserManagementController::class, 'customers']);
-    Route::get('/technicians', [UserManagementController::class, 'technicians']);
-    Route::post('/user/{id}/toggle-status', [UserManagementController::class, 'toggleStatus']);
+    Route::get('/customers', [UserManagementController::class, 'customers'])->name('users.customers');
+    Route::get('/technicians', [UserManagementController::class, 'technicians'])->name('users.technicians');
+    Route::post('/user/{id}/toggle-status', [UserManagementController::class, 'toggleStatus'])->name('users.toggle-status');
 
-    Route::get('/bookings', [BookingManagementController::class, 'index']);
-    Route::get('/bookings/{id}', [BookingManagementController::class, 'show']);
-    Route::post('/bookings/{id}/assign-technician', [BookingManagementController::class, 'assignTechnician']);
+    Route::get('/bookings', [BookingManagementController::class, 'index'])->name('bookings.index');
+    Route::get('/bookings/{id}', [BookingManagementController::class, 'show'])->name('bookings.show');
+    Route::post('/bookings/{id}/assign-technician', [BookingManagementController::class, 'assignTechnician'])->name('bookings.assign-technician');
 
-    Route::get('/services', [ServiceManagementController::class, 'index']);
-    Route::post('/services/store', [ServiceManagementController::class, 'store']);
-    Route::post('/services/{id}/update', [ServiceManagementController::class, 'update']);
-    Route::delete('/services/{id}', [ServiceManagementController::class, 'destroy']);
+    Route::get('/services', [ServiceManagementController::class, 'index'])->name('services.index');
+    Route::post('/services/store', [ServiceManagementController::class, 'store'])->name('services.store');
+    Route::post('/services/{id}/update', [ServiceManagementController::class, 'update'])->name('services.update');
+    Route::delete('/services/{id}', [ServiceManagementController::class, 'destroy'])->name('services.destroy');
 
-    Route::get('/payments', [PaymentManagementController::class, 'index']);
-    Route::post('/payments/{id}/approve', [PaymentManagementController::class, 'approve']);
+    Route::get('/payments', [PaymentManagementController::class, 'index'])->name('payments.index');
+    Route::post('/payments/{id}/approve', [PaymentManagementController::class, 'approve'])->name('payments.approve');
 
-    Route::get('/reports', [ReportManagementController::class, 'index']);
+    Route::get('/reports', [ReportManagementController::class, 'index'])->name('reports.index');
 
-    Route::get('/notifications', [NotificationManagementController::class, 'index']);
+    Route::get('/notifications', [NotificationManagementController::class, 'index'])->name('notifications.index');
 });

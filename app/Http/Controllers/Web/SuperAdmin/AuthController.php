@@ -77,3 +77,8 @@ public function register()
         return redirect()->route('login');
     }
 }
+
+
+
+
+
