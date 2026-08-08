@@ -8,4 +8,21 @@ use Illuminate\Database\Eloquent\Model;
 class MaintenanceHistory extends Model
 {
     use HasFactory;
+
+    protected $guarded = [];
+
+    protected $casts = [
+        'maintenance_date' => 'date',
+    ];
+
+    // ─── Relationships ─────────────────────────────────────────────
+    public function maintenanceLocation()
+    {
+        return $this->belongsTo(MaintenanceLocation::class, 'location_id');
+    }
+
+    public function booking()
+    {
+        return $this->belongsTo(Booking::class);
+    }
 }

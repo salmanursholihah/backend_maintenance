@@ -9,26 +9,38 @@ class Payment extends Model
 {
     use HasFactory;
 
-    protected $fillable = [
-        'booking_id',
-        'amount',
-        'payment_method',
-        'transaction_id',
-        'payment_proof',
-        'status',
-        'paid_at',
-    ];
+    // pakai $guarded (bukan $fillable) biar konsisten dengan model lain
+    // dan field baru dari remote (payment_metadata, expired_at) otomatis mass-assignable
+    protected $guarded = [];
 
     protected $casts = [
-        'amount' => 'decimal:2',
-        'paid_at' => 'datetime',
+        'amount'           => 'decimal:2',
+        'payment_metadata' => 'array',
+        'paid_at'          => 'datetime',
+        'expired_at'       => 'datetime',
     ];
 
+    // ─── Status Constants ─────────────────────────────────────────
+    const STATUS_PENDING  = 'pending';
+    const STATUS_PAID     = 'paid';
+    const STATUS_FAILED   = 'failed';
+    const STATUS_EXPIRED  = 'expired';
+    const STATUS_REFUNDED = 'refunded';
+
+    // ─── Helpers ──────────────────────────────────────────────────
+    public function isPaid(): bool
+    {
+        return $this->status === self::STATUS_PAID;
+    }
+
+    public function isExpired(): bool
+    {
+        return $this->status === self::STATUS_EXPIRED;
+    }
+
+    // ─── Relationships ─────────────────────────────────────────────
     public function booking()
     {
         return $this->belongsTo(Booking::class);
     }
 }
-
-
-

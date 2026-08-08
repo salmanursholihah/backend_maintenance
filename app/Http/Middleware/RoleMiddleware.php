@@ -34,21 +34,34 @@ class RoleMiddleware
 
 
     ///code 2
-    public function handle(Request $request, Closure $next, string $role): Response
+    public function handle(Request $request, Closure $next, string ...$roles): Response
     {
         $user = $request->user();
+ 
         if (!$user) {
+            // API request → JSON, Web request → redirect login
             if ($request->expectsJson()) {
-                return response()->json(['message' => 'Unauthenticated',], 401);
+                return response()->json(['message' => 'Unauthenticated.'], 401);
             }
             return redirect()->route('login');
         }
-        if ($user->role !== $role) {
+ 
+        if (!$user->is_active) {
             if ($request->expectsJson()) {
-                return response()->json(['message' => 'Forbidden: wrong role',], 403);
+                return response()->json(['message' => 'Akun Anda dinonaktifkan.'], 403);
             }
-            abort(403, 'Forbidden');
+            abort(403, 'Akun Anda dinonaktifkan.');
         }
+ 
+        if (!in_array($user->role, $roles)) {
+            if ($request->expectsJson()) {
+                return response()->json([
+                    'message' => 'Anda tidak memiliki akses ke resource ini.',
+                ], 403);
+            }
+            abort(403, 'Anda tidak memiliki akses ke halaman ini.');
+        }
+ 
         return $next($request);
     }
 }

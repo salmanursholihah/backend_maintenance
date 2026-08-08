@@ -18,12 +18,24 @@ class SurveyResultItem extends Model
         'subtotal' => 'decimal:2',
     ];
 
+    // ─── Boot (dari remote) ─────────────────────────────────────────
+    protected static function boot(): void
+    {
+        parent::boot();
+        static::saving(function ($item) {
+            $item->subtotal = $item->price * $item->qty;
+        });
+    }
+
+    // ─── Relationships ─────────────────────────────────────────────
     public function surveyResult(): BelongsTo
     {
         return $this->belongsTo(SurveyResult::class);
     }
+
+    // banyak item merujuk ke 1 component (opsional)
+    public function component()
+    {
+        return $this->belongsTo(Component::class);
+    }
 }
-
-
-
-

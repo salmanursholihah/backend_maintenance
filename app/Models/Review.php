@@ -16,6 +16,7 @@ class Review extends Model
         'rating' => 'integer',
     ];
 
+    // ─── Relationships ─────────────────────────────────────────────
     public function booking(): BelongsTo
     {
         return $this->belongsTo(Booking::class);

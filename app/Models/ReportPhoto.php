@@ -11,7 +11,14 @@ class ReportPhoto extends Model
 
     protected $guarded = [];
 
-    public function maintenancereports()
+    // ─── Accessors (dari remote) ────────────────────────────────────
+    public function getPhotoUrlAttribute(): string
+    {
+        return asset('storage/' . $this->photo);
+    }
+
+    // ─── Relationships ─────────────────────────────────────────────
+    public function maintenanceReport()
     {
         return $this->belongsTo(MaintenanceReport::class);
     }

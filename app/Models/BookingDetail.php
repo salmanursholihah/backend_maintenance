@@ -9,14 +9,25 @@ class BookingDetail extends Model
 {
     use HasFactory;
 
-    protected $fillable = [
-        'booking_id',
-        'service_id',
-        'price',
-        'qty',
-        'subtotal',
+    // pakai $guarded (bukan $fillable) biar konsisten dengan model lain
+    protected $guarded = [];
+
+    protected $casts = [
+        'price'    => 'decimal:2',
+        'qty'      => 'integer',
+        'subtotal' => 'decimal:2',
     ];
 
+    // ─── Boot ─────────────────────────────────────────────────────
+    protected static function boot(): void
+    {
+        parent::boot();
+        static::saving(function ($detail) {
+            $detail->subtotal = $detail->price * $detail->qty;
+        });
+    }
+
+    // ─── Relationships ─────────────────────────────────────────────
     public function booking()
     {
         return $this->belongsTo(Booking::class);
@@ -27,5 +38,3 @@ class BookingDetail extends Model
         return $this->belongsTo(Service::class);
     }
 }
-
-
